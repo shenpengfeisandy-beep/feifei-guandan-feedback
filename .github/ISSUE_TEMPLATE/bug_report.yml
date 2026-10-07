@@ -1,0 +1,22 @@
+name: 问题反馈
+description: 报告配对、规则、界面或声音问题
+title: "[问题] "
+body:
+  - type: input
+    id: device
+    attributes:
+      label: 手机与浏览器
+      placeholder: iPhone 15 / iOS版本 / Safari
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 操作步骤与实际结果
+      description: 请说明真人数量、Wi-Fi或热点、预期结果；不要公开配对码或私人信息。
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 脱敏截图或录屏
