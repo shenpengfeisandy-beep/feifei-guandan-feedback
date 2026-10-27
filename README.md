@@ -1,80 +1,68 @@
-<p align="center">
-  <a href="https://guanyou-table-demo.netlify.app/"><img src="media/cover.png" alt="飞飞掼蛋：把快乐，随身带上。点击试玩" width="100%"></a>
-</p>
+# 飞飞掼蛋
 
-<p align="center">
-  <strong>没带扑克牌，也能掼一局。</strong><br>
-  一个人练牌，几个朋友开桌，一群同事争冠。
-</p>
+## 提前缓存，没网照样玩。
 
-<p align="center">
-  <a href="https://guanyou-table-demo.netlify.app/"><strong>♠ 立即试玩</strong></a> ·
-  <a href="https://guanyou-table-demo.netlify.app/live-event.html">🏆 团建联机试用</a> ·
-  <a href="https://github.com/shenpengfeisandy-beep/feifei-guandan-feedback/issues/new/choose">💬 提建议</a> ·
-  <a href="https://github.com/shenpengfeisandy-beep/feifei-guandan-feedback/raw/refs/heads/codex/product-feedback/media/feifei-social-v2.zip">↓ 下载朋友圈图文包</a>
-</p>
+飞机上、地下室、深山老林——没信号的时候，也想来一局。出发前把牌桌备进手机：一个人练牌，几个朋友组队，一群同事争冠。
 
----
+**[立即打开游戏](https://guanyou-table-demo.netlify.app/) · [手机缓存与开局指南](使用与下载指南.md) · [下载四图分享包](media/feifei-guandan-share-2026.10.27.zip) · [提出建议](https://github.com/shenpengfeisandy-beep/feifei-guandan-feedback/issues/new/choose)**
 
-## 今天，约谁来一局？
+<p align="center"><a href="https://guanyou-table-demo.netlify.app/"><img src="media/poster-01-offline.png" alt="提前缓存，没网照样玩：飞机、地下室、深山场景的飞飞掼蛋宣传图" width="440"></a></p>
 
-| 一个人，练练手 | 人没齐，先开桌 | 朋友局，玩默契 |
-| :--- | :--- | :--- |
-| 3位电脑陪练，随时找找牌感。 | 2～3位真人也能玩，空位电脑补齐。 | 4位朋友选好对家，隔位配合，从2打到A。 |
+**当前为网页版公开试玩。** 不用注册；iPhone 和 Android 手机可打开网页体验，添加到主屏幕更方便。当前尚未发布 APK / IPA，也未开通付费收款。
 
-**不用注册，也不用 GitHub 账号。** 打开网页即可先试单人练习。朋友局需要同一可互连的 Wi-Fi／热点，并完成邀请、回应双向配对。
+## 有网直接约，没网提前备
 
-<p align="center"><img src="media/features.png" alt="真实游戏界面与1至4人玩法" width="620"></p>
+| 你在哪里玩 | 怎么开局 |
+| --- | --- |
+| 有互联网，各自用 5G / Wi-Fi | 房主点“我来开桌”，选“在线快捷”；朋友扫座位邀请码或打开邀请链接加入，无需同一热点、无需回应码。在线牌局需持续外网和服务可用。 |
+| 没外网，一个人 | 每台手机提前完整缓存；单人练习直接和电脑开局。 |
+| 没外网，几个朋友在一起 | 每台手机提前缓存，连接同一可互通 Wi-Fi / 热点，选“附近离线”完成邀请与回应双向扫码。房主保持前台。 |
 
-## 有牌局，也有朋友间的热闹
+首页出现 **“离线资源已保存”** 后再断网。当前网页版不是蓝牙直连；公共 Wi-Fi 设备隔离、热点及浏览器权限可能影响附近连接。没有可用局域网时，仍能玩已缓存的单人练习。机上无线使用请遵守航司规定；“外太空”是宣传想象，尚未实测。
 
-**认得出牌友**　换上自己的昵称和头像，局内也能修改。各座位保留最近出牌，牌权和行动更好辨认。
+[查看三步离线准备 →](使用与下载指南.md#无外网提前缓存再选附近模式)
 
-**轮到你，有帮手**　领出提示优先小点数；超时代打可选30、60、90、120秒或关闭（默认60秒）。只代当前一手，下回合仍由你操作。
+## 这局，约谁来？
 
-**熟悉的房规，自己做主**　手动进贡、还贡，支持内贡和双大王抗贡。打A首次须一二游，第二/三次允许一三游；三次未过退回2。
+| 一个人练牌 | 人没齐也开桌 | 四个朋友玩默契 |
+| --- | --- | --- |
+| 3 位电脑陪练，随时找牌感。 | 2～3 位真人，空位电脑补齐。 | 自己选对家，从 2 打到 A，隔位配合。 |
 
-**一桌人，有声有色**　原创竞技音乐、残局紧张段落、双角色神经语音和互动表情。战绩与休闲段位保存在本机，真人、人机、练习分榜。
+- **认得出牌友。** 上传头像、修改昵称，每人最近出的牌留在对应位置；上家、下家、对家和自己的回合都有醒目的文字提醒。
+- **有牌权，也有帮手。** 连续点提示，轮换合法出牌组合；领出优先小点数。超时代打默认 60 秒，可设 30 / 60 / 90 / 120 秒或关闭，只代当前一手。
+- **进贡还贡，自己选。** 支持内贡、双大王抗贡；红桃当前级牌不能进贡。打 A 首次须一二游，第二、三次允许一三游，三次未过退回打 2。
+- **你的风景，你做主。** 20 款个人背景：全球奇景、国风仙侠、赛博未来；每人独立选择，横竖屏适配，完整缓存后可离线换景。
+- **牌桌有声，有回应。** 《竹影轻快》的笛声拨弦、《霓虹决胜》的铜管电子鼓，两首可选；还有出牌音效、双角色短语和互动表情。有可用的本机中文语音时，回合提示会带姓名；否则播放座位语音，姓名继续显示在牌桌上。
+- **打完留个战报。** 本机战绩、休闲段位和分享战报；真人、电脑补位与练习分榜。新版本高亮提醒，由玩家点选更新，不会突然刷新打断牌局。
 
-## 人多？把聚会变成一场比赛
+## 人多，试试团建赛
 
-**8～32人，固定双人队：积分赛 → 淘汰赛 → 决赛及季军赛。**
+8～32 人固定双人队，积分赛 → 淘汰赛 → 决赛及季军赛。组织者分桌、队长录分、双方确认。
 
-组织者分桌、队长录分、双方确认，一起把赛程打完。当前团建联机为试用版，成绩由队长手动提交，尚不自动收取各桌游戏结果。
+[打开团建联机试用 →](https://guanyou-table-demo.netlify.app/live-event.html) 当前为试用功能，成绩由队长手动提交，尚不自动收取各牌桌结果；普通牌桌和团建队长同步为不同入口。
 
-[打开团建联机试用 →](https://guanyou-table-demo.netlify.app/live-event.html)
+## 四张图，把玩法讲清楚
 
-## 出发前备好，旅途多一局
+点击图片可打开原图保存；二维码打开游戏首页，加入具体牌桌还需房主分享座位邀请。
 
-1. **先联网缓存。** 每台手机打开游戏，等待“离线资源已保存”；iPhone 建议 Safari。
-2. **朋友连同一个网。** 使用允许设备互连的 Wi-Fi 或热点。酒店公共网络可能隔离设备，请提前试连。
-3. **完成双向配对。** 朋友扫房主邀请、生成回应，再由房主扫回应；选对家、补电脑、开局。
+| 提前缓存，没网照样玩 | 没网开局前，先做三步 |
+| :---: | :---: |
+| [![离线场景](media/poster-01-offline.png)](media/poster-01-offline.png) | [![缓存与附近开局三步](media/poster-02-prepare.png)](media/poster-02-prepare.png) |
+| **每人独立选择风景** | **进还贡、提示和朋友默契** |
+| [![20 款个人背景](media/poster-03-backgrounds.png)](media/poster-03-backgrounds.png) | [![牌局玩法与互动](media/poster-04-play.png)](media/poster-04-play.png) |
 
-**离线能力说清楚：**缓存后的单人练习可离线。多人需可用局域网，可尝试不耗外网流量联机；当前网页版没有蓝牙直连。飞机上若无可用局域网，可玩已缓存的单人练习，并遵守航司规定。首次打开及更新仍需互联网。
+[下载四图、二维码与配文 ZIP](media/feifei-guandan-share-2026.10.27.zip) · [复制朋友圈配文](朋友圈文案.md)
 
-<details>
-<summary><strong>查看可保存的开局指南</strong></summary>
+<p align="center"><a href="https://guanyou-table-demo.netlify.app/"><img src="media/start-qr.png" alt="扫描二维码打开飞飞掼蛋正式试玩网站" width="200"></a></p>
 
-![离线准备与双向配对指南](media/guide.png)
+## 欢迎来玩，也欢迎认真挑毛病
 
-</details>
+电脑哪一手不聪明？手机哪里点不顺？哪种网络不容易连接？告诉飞飞，让下一版改得更实在。
 
-## 你的下一条建议，可能就是下一次改进
+- [提交问题或建议](https://github.com/shenpengfeisandy-beep/feifei-guandan-feedback/issues/new/choose)：请附手机型号、浏览器、步骤及截图。
+- 不用 GitHub 也能反馈：[shenpengfeisandy@gmail.com](mailto:shenpengfeisandy@gmail.com?subject=飞飞掼蛋反馈)。
+- 请勿公开座位邀请码、牌友照片或完整个人存档。战绩和设置保存在使用的浏览器，请先导出备份再清理数据。
 
-配对哪里卡住了？按钮哪里不顺手？电脑哪一手打得不聪明？都欢迎告诉飞飞。
+制作人：**飞飞**。本仓库公开产品介绍、分享素材与反馈入口；游戏开发源码和后端保持私有。海报中的场景和扑克牌插画是宣传视觉，玩法截图来自浏览器；不同手机和真实网络环境仍需继续验证。
 
-- **[提交问题或建议 →](https://github.com/shenpengfeisandy-beep/feifei-guandan-feedback/issues/new/choose)** 请附手机型号、浏览器、操作步骤及截图。
-- **不用 GitHub 也能反馈：**[shenpengfeisandy@gmail.com](mailto:shenpengfeisandy@gmail.com?subject=飞飞掼蛋反馈)
-- 请勿公开配对码、个人照片、牌友资料或完整存档。
-
-## 把这桌快乐，分享给朋友
-
-[保存主海报](media/poster.png) · [保存玩法图](media/features.png) · [保存开局指南](media/guide.png) · [复制朋友圈文案](朋友圈文案.md) · [下载三图与文案 ZIP](https://github.com/shenpengfeisandy-beep/feifei-guandan-feedback/raw/refs/heads/codex/product-feedback/media/feifei-social-v2.zip)
-
-<p align="center"><a href="https://guanyou-table-demo.netlify.app/"><img src="media/poster.png" alt="扫码试玩飞飞掼蛋" width="520"></a></p>
-
----
-
-制作人：**飞飞** · 公开试玩版
-
-本页仅公开产品介绍、宣传素材和反馈入口，**游戏源码私有**。画面中的界面来自真实浏览器测试截图；海报扑克牌为AI生成的宣传插画，不是游戏内画面。部分手机扫码、后台连接及大型真实团建场景仍待验证，尚未完成全部真机验收。宣传二维码打开游戏首页，加入朋友房间仍需双向配对。
+当前网页版本：`guanyou-fe2ca8577f1c` · 2026-10-27。
