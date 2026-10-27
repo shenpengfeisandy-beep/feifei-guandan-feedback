@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://guanyou-table-demo.netlify.app/"><img src="media/poster-01-offline.png" alt="提前缓存，没网照样玩：飞机、地下室、深山场景的飞飞掼蛋宣传图" width="440"></a></p>
 
-**当前为网页版公开试玩。** 不用注册；iPhone 和 Android 手机可打开网页体验，添加到主屏幕更方便。当前尚未发布 APK / IPA，也未开通付费收款。
+**当前为网页版公开试玩。** 不用注册；iPhone 和 Android 手机可打开网页体验，添加到主屏幕更方便。当前尚未发布 APK / IPA，也没有付费游戏解锁；下方爱发电入口用于自愿支持创作，认证与收款状态尚待核验。
 
 ## 有网直接约，没网提前备
 
@@ -54,6 +54,12 @@
 [下载四图、二维码与配文 ZIP](media/feifei-guandan-share-2026.10.27.zip) · [复制朋友圈配文](朋友圈文案.md)
 
 <p align="center"><a href="https://guanyou-table-demo.netlify.app/"><img src="media/start-qr.png" alt="扫描二维码打开飞飞掼蛋正式试玩网站" width="200"></a></p>
+
+## 支持飞飞继续打磨
+
+[爱发电 · 飞飞掼蛋](https://afdian.com/a/feifeiguandan) 已建立，欢迎先试玩、提建议，再决定是否支持。
+
+「请飞飞喝杯茶」为 **¥5／月的自愿创作支持**，不是一次性游戏下载买断。现有网页版继续免费；支持不解锁独有功能，不包含开发源码、尚未发布的 iOS／安卓安装包、未来商店版或终身云服务。创作者认证与实际收款能力尚待平台审核和核验，本页不承诺已经可付款。
 
 ## 欢迎来玩，也欢迎认真挑毛病
 
